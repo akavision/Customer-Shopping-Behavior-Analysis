@@ -165,7 +165,7 @@ Left-side slicers enable dynamic filtering by:
 
 ## 📸 Dashboard Preview
 
-![Customer Behavior Analytics Dashboard](preview.png)
+![Customer Behavior Analytics Dashboard](https://raw.githubusercontent.com/akavision/Customer-Shopping-Behavior-Analysis/main/Screenshot%20of%20the%20Dashboard.png)
 
 ---
 
